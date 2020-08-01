@@ -1,0 +1,10 @@
+C:\Users\14015\Desktop\git\VSProjects\IngEconomia\IngEconomia\bin\Debug\IngEconomia.exe.config
+C:\Users\14015\Desktop\git\VSProjects\IngEconomia\IngEconomia\bin\Debug\IngEconomia.exe
+C:\Users\14015\Desktop\git\VSProjects\IngEconomia\IngEconomia\bin\Debug\IngEconomia.pdb
+C:\Users\14015\Desktop\git\VSProjects\IngEconomia\IngEconomia\obj\Debug\IngEconomia.csprojAssemblyReference.cache
+C:\Users\14015\Desktop\git\VSProjects\IngEconomia\IngEconomia\obj\Debug\IngEconomia.Form1.resources
+C:\Users\14015\Desktop\git\VSProjects\IngEconomia\IngEconomia\obj\Debug\IngEconomia.Properties.Resources.resources
+C:\Users\14015\Desktop\git\VSProjects\IngEconomia\IngEconomia\obj\Debug\IngEconomia.csproj.GenerateResource.cache
+C:\Users\14015\Desktop\git\VSProjects\IngEconomia\IngEconomia\obj\Debug\IngEconomia.csproj.CoreCompileInputs.cache
+C:\Users\14015\Desktop\git\VSProjects\IngEconomia\IngEconomia\obj\Debug\IngEconomia.exe
+C:\Users\14015\Desktop\git\VSProjects\IngEconomia\IngEconomia\obj\Debug\IngEconomia.pdb
